@@ -5,7 +5,7 @@
         public int Id { get; set; }
         public int CardId { get; set; }
         public int FeatureId { get; set; }
-        public Feature Feature { get; set; }
-        public Card Card { get; set; }
+        public Feature? Feature { get; set; }
+        public Card? Card { get; set; }
     }
 }

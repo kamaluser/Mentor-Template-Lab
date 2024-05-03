@@ -1,0 +1,61 @@
+﻿    @model Card
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <h1>Pricing Edit</h1>
+        </div>
+        <div class="col-md-8">
+            <form method="post" asp-action="Edit">
+                <div class="form-group">
+                    <label asp-for="Name">Name</label>
+                    <input asp-for="Name" class="form-control" placeholder="Name">
+                    <span asp-validation-for="Name"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Price">Price</label>
+                    <input asp-for="Price" class="form-control" placeholder="Price">
+                    <span asp-validation-for="Price"></span>
+                </div>
+                @*  <div class="form-group">
+                <label for="FeatureIds">Card Features</label>
+                <select asp-for="FeatureIds" class="form-control" id="FeatureIds" asp-items="@(new SelectList(ViewBag.Features,nameof(Feature.Id),nameof(Feature.Name)))">
+                </select>
+                </div> *@
+                <div class="form-group">
+                    <label asp-for="BtnContext">BtnContext</label>
+                    <input asp-for="BtnContext" class="form-control" placeholder="Button Context">
+                    <span asp-validation-for="BtnContext"></span>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" value="" id="IsFeaturedInput">
+                    <label class="form-check-label" for="flexCheckDefault">
+                        IsFeatured
+                    </label>
+                    <span class="text-danger" asp-validation-for="IsFeatured"></span>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" asp-for="IsAdvanced" id="IsAdvancedInput">
+                    <label class="form-check-label" for="IsAdvanced">
+                        IsAdvanced
+                    </label>
+                    <span class="text-danger" asp-validation-for="IsAdvanced"></span>
+                </div>
+                <h4>Select Features:</h4>
+                @foreach (var item in ViewBag.Features)
+                {
+                    <div class="form-check">
+                        <input class="form-check-input" for="FeatureIds" type="checkbox" id="FeatureIds">
+                        <label class="form-check-label" for="FeatureIds">
+                            @item.Name
+                        </label>
+                    </div>
+                }
+                <button type="submit" class="btn btn-primary">Edit</button>
+            </form>
+        </div>
+    </div>
+</div>
