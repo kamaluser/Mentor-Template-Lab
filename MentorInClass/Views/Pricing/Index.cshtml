@@ -39,12 +39,12 @@
                                     <span class="advanced">Advanced</span>
                                 }
                             }
-                                <h3 style="@(item.IsFeatured?"background-color: green; color: #fff;":"")">@item.Name</h3>
+                            <h3 style="@(item.IsFeatured?"background-color: #5fcf80; color: #fff;":"")">@item.Name</h3>
                             <h4><sup>$</sup>@item.Price<span> / month</span></h4>
                             <ul>
                                 @foreach(var feature in Model.Features)
                                 {
-                                    <li class="@((feature.CardFeatures==item.CardFeatures)?"text-decoration-line-through":"")">@feature.Name</li>
+                                    <li class="@(item.CardFeatures.Find(x=>x.FeatureId==feature.Id)==null?"na":"")">@feature.Name</li>
                                 }
                                 
                             </ul>
