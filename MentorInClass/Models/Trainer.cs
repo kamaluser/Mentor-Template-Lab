@@ -11,6 +11,6 @@
         public string TwitterUrl { get; set; }
         public string FacebookUrl { get; set; }
         public string LinkedinUrl { get; set; }
-        public List<Course> Courses { get; set; }
+        public List<Course>? Courses { get; set; }
     }
 }

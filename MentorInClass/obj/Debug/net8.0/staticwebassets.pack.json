@@ -421,6 +421,10 @@
       "PackagePath": "staticwebassets\\forms\\contact.php"
     },
     {
+      "Id": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\wwwroot\\manage\\assets\\css\\login.css",
+      "PackagePath": "staticwebassets\\manage\\assets\\css\\login.css"
+    },
+    {
       "Id": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\wwwroot\\manage\\assets\\css\\sb-admin-2.css",
       "PackagePath": "staticwebassets\\manage\\assets\\css\\sb-admin-2.css"
     },

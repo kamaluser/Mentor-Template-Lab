@@ -1031,3 +1031,8 @@ C:\Users\kamalrh\Desktop\Mentor-Template-Lab\MentorInClass\obj\Debug\net8.0\refi
 C:\Users\kamalrh\Desktop\Mentor-Template-Lab\MentorInClass\obj\Debug\net8.0\MentorInClass.pdb
 C:\Users\kamalrh\Desktop\Mentor-Template-Lab\MentorInClass\obj\Debug\net8.0\MentorInClass.genruntimeconfig.cache
 C:\Users\kamalrh\Desktop\Mentor-Template-Lab\MentorInClass\obj\Debug\net8.0\ref\MentorInClass.dll
+C:\Users\kamalrh\Desktop\Mentor-Template-Lab\MentorInClass\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\kamalrh\Desktop\Mentor-Template-Lab\MentorInClass\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\kamalrh\Desktop\Mentor-Template-Lab\MentorInClass\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\kamalrh\Desktop\Mentor-Template-Lab\MentorInClass\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\kamalrh\Desktop\Mentor-Template-Lab\MentorInClass\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll

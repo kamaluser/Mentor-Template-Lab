@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dgpfJJPeGRa04kNTBY04izGestXPACUJ5weT8eQ+e1Y=",
+  "Hash": "aSAHysFVrm6T1yb8JTjdQERQLDf/Z5ycr13xaML1YOQ=",
   "Source": "MentorInClass",
   "BasePath": "_content/MentorInClass",
   "Mode": "Default",
@@ -2067,6 +2067,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\forms\\Readme.txt"
+    },
+    {
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\wwwroot\\manage\\assets\\css\\login.css",
+      "SourceId": "MentorInClass",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\wwwroot\\",
+      "BasePath": "_content/MentorInClass",
+      "RelativePath": "manage/assets/css/login.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\manage\\assets\\css\\login.css"
     },
     {
       "Identity": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\wwwroot\\manage\\assets\\css\\sb-admin-2.css",

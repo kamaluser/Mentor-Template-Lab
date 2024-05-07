@@ -1,4 +1,6 @@
 using MentorInClass.DAL;
+using MentorInClass.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 namespace MentorInClass
@@ -16,6 +18,14 @@ namespace MentorInClass
 				options.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
 			});
 
+
+			builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
+			{
+				opt.Password.RequireNonAlphanumeric = false;
+				opt.Password.RequireUppercase = false;
+				opt.Password.RequiredLength = 8;
+			}).AddDefaultTokenProviders().AddEntityFrameworkStores<AppDbContext>();
+
 			var app = builder.Build();
 
 			// Configure the HTTP request pipeline.
@@ -31,6 +41,8 @@ namespace MentorInClass
 
 			app.UseRouting();
 
+
+			app.UseAuthentication();
 			app.UseAuthorization();
 
             app.MapControllerRoute(

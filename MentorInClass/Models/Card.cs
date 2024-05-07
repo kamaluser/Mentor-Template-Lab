@@ -12,6 +12,6 @@ namespace MentorInClass.Models
         public bool IsAdvanced { get; set; }
         public List<CardFeature>? CardFeatures { get; set; }
         [NotMapped]
-        public List<int>? FeatureIds { get; set; }
+        public List<int>? FeatureIds { get; set; } = new List<int>();
     }
 }

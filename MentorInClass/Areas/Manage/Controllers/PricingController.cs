@@ -41,12 +41,12 @@ namespace MentorInClass.Areas.Manage.Controllers
                 return View(card);
             }
 
-            foreach(var featureIds in card.FeatureIds)
+            foreach(var featureId in card.FeatureIds)
             {
-                if (!_context.Features.Any(x => x.Id == featureIds)) return RedirectToAction("notfound", "error");
+                if (!_context.Features.Any(x => x.Id == featureId)) return RedirectToAction("notfound", "error");
                 CardFeature cardFeature = new CardFeature
                 {
-                    FeatureId = featureIds,
+                    FeatureId = featureId,
                     Card = card
                 };
                 _context.cardFeatures.Add(cardFeature);
