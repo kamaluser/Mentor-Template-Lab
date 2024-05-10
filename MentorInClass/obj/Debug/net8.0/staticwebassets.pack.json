@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\assets\\css\\main.css"
     },
     {
+      "Id": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\wwwroot\\assets\\css\\register.css",
+      "PackagePath": "staticwebassets\\assets\\css\\register.css"
+    },
+    {
       "Id": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\wwwroot\\assets\\img\\about-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\about-2.jpg"
     },

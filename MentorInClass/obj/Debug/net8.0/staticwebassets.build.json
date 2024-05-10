@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aSAHysFVrm6T1yb8JTjdQERQLDf/Z5ycr13xaML1YOQ=",
+  "Hash": "RShUbt9BnFV1imGJEToxxb1Hj7tT5uSlJ+sKLayezA4=",
   "Source": "MentorInClass",
   "BasePath": "_content/MentorInClass",
   "Mode": "Default",
@@ -110,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\css\\main.css"
+    },
+    {
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\wwwroot\\assets\\css\\register.css",
+      "SourceId": "MentorInClass",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\wwwroot\\",
+      "BasePath": "_content/MentorInClass",
+      "RelativePath": "assets/css/register.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\register.css"
     },
     {
       "Identity": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\wwwroot\\assets\\img\\about.jpg",

@@ -109,7 +109,15 @@
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
             </nav>
 
-            <a class="btn-getstarted" href="courses.html">Get Started</a>
+            <a class="btn-getstarted" href="#">Get Started</a>
+            @if (!User.Identity.IsAuthenticated)
+            {
+                <a class="btn-getstarted" asp-action="login" asp-controller="account">Login</a>
+            }
+            else
+            {
+                <a class="btn-getstarted" asp-action="logout" asp-controller="account">Logout</a>
+            }
 
         </div>
     </header>
@@ -201,7 +209,7 @@
 
     <!-- Main JS File -->
     <script src="~/assets/js/main.js"></script>
-
+    @RenderSection("css",required:false)
 </body>
 
 </html>

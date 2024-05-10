@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\kamalrh\\desktop\\mentor-template-lab\\mentorinclass\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\kamalrh\\desktop\\mentor-template-lab\\mentorinclass\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\kamalrh\\desktop\\mentor-template-lab\\mentorinclass\\viewmodels\\memberloginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\viewmodels\\memberloginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\kamalrh\\desktop\\mentor-template-lab\\mentorinclass\\areas\\manage\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\areas\\manage\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\kamalrh\\desktop\\mentor-template-lab\\mentorinclass\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\kamalrh\\desktop\\mentor-template-lab\\mentorinclass\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\kamalrh\\desktop\\mentor-template-lab\\mentorinclass\\areas\\manage\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\areas\\manage\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\kamalrh\\desktop\\mentor-template-lab\\mentorinclass\\areas\\manage\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\areas\\manage\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\kamalrh\\desktop\\mentor-template-lab\\mentorinclass\\areas\\manage\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\areas\\manage\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\kamalrh\\desktop\\mentor-template-lab\\mentorinclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,11 +118,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MentorInClass\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MentorInClass\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAHwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T16:32:43.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "MentorInClass\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "MentorInClass\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwBQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T16:26:58.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MentorInClass\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MentorInClass\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T16:24:39.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "MemberLoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\ViewModels\\MemberLoginViewModel.cs",
+              "RelativeDocumentMoniker": "MentorInClass\\ViewModels\\MemberLoginViewModel.cs",
+              "ToolTip": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\ViewModels\\MemberLoginViewModel.cs",
+              "RelativeToolTip": "MentorInClass\\ViewModels\\MemberLoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T16:16:14.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MentorInClass\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MentorInClass\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAvwEwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:10:56.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\Areas\\Manage\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "MentorInClass\\Areas\\Manage\\ViewModels\\LoginViewModel.cs",
@@ -115,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\Areas\\Manage\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "MentorInClass\\Areas\\Manage\\Views\\Account\\Login.cshtml",
@@ -123,12 +208,11 @@
               "RelativeToolTip": "MentorInClass\\Areas\\Manage\\Views\\Account\\Login.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T15:43:50.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T15:43:50.14Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "MentorInClass\\DAL\\AppDbContext.cs",
@@ -136,12 +220,11 @@
               "RelativeToolTip": "MentorInClass\\DAL\\AppDbContext.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T15:19:18.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T15:19:18.238Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "MentorInClass\\Models\\AppUser.cs",
@@ -149,25 +232,24 @@
               "RelativeToolTip": "MentorInClass\\Models\\AppUser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T15:18:30.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T15:18:30.11Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\Areas\\Manage\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "MentorInClass\\Areas\\Manage\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\Areas\\Manage\\Controllers\\AccountController.cs",
               "RelativeToolTip": "MentorInClass\\Areas\\Manage\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAowCoAAAA9AAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T15:17:44.178Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Trainer.cs",
               "DocumentMoniker": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\Models\\Trainer.cs",
               "RelativeDocumentMoniker": "MentorInClass\\Models\\Trainer.cs",
@@ -175,12 +257,11 @@
               "RelativeToolTip": "MentorInClass\\Models\\Trainer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T15:13:13.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T15:13:13.167Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\appsettings.json",
               "RelativeDocumentMoniker": "MentorInClass\\appsettings.json",
@@ -188,12 +269,11 @@
               "RelativeToolTip": "MentorInClass\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-03T15:17:02.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T15:17:02.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "PricingController.cs",
               "DocumentMoniker": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\Areas\\Manage\\Controllers\\PricingController.cs",
               "RelativeDocumentMoniker": "MentorInClass\\Areas\\Manage\\Controllers\\PricingController.cs",
@@ -201,12 +281,11 @@
               "RelativeToolTip": "MentorInClass\\Areas\\Manage\\Controllers\\PricingController.cs",
               "ViewState": "AQIAAEkAAAAAAAAAAAAvwFYAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T15:20:00.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T15:20:00.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\Program.cs",
               "RelativeDocumentMoniker": "MentorInClass\\Program.cs",
@@ -214,12 +293,11 @@
               "RelativeToolTip": "MentorInClass\\Program.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAgwBoAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T15:17:02.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T15:17:02.704Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\Areas\\Manage\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "MentorInClass\\Areas\\Manage\\Controllers\\DashboardController.cs",
@@ -227,12 +305,11 @@
               "RelativeToolTip": "MentorInClass\\Areas\\Manage\\Controllers\\DashboardController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T15:17:02.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T15:17:02.704Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\Areas\\Manage\\Views\\Pricing\\Edit.cshtml",
               "RelativeDocumentMoniker": "MentorInClass\\Areas\\Manage\\Views\\Pricing\\Edit.cshtml",
@@ -240,12 +317,11 @@
               "RelativeToolTip": "MentorInClass\\Areas\\Manage\\Views\\Pricing\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-03T17:28:31.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T17:28:31.541Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\Areas\\Manage\\Views\\Pricing\\Index.cshtml",
               "RelativeDocumentMoniker": "MentorInClass\\Areas\\Manage\\Views\\Pricing\\Index.cshtml",
@@ -253,12 +329,11 @@
               "RelativeToolTip": "MentorInClass\\Areas\\Manage\\Views\\Pricing\\Index.cshtml",
               "ViewState": "AQIAABgAAAAAAAAAAIBJwCwAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-03T15:20:14.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T15:20:14.485Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\Areas\\Manage\\Views\\Pricing\\Create.cshtml",
               "RelativeDocumentMoniker": "MentorInClass\\Areas\\Manage\\Views\\Pricing\\Create.cshtml",
@@ -266,12 +341,11 @@
               "RelativeToolTip": "MentorInClass\\Areas\\Manage\\Views\\Pricing\\Create.cshtml",
               "ViewState": "AQIAACMAAAAAAAAAAAAUwDIAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-03T15:41:58.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T15:41:58.968Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MentorInClass\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
@@ -279,12 +353,11 @@
               "RelativeToolTip": "MentorInClass\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAADMAAAAAAAAAAIBJwD4AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-03T15:17:02.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T15:17:02.673Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Feature.cs",
               "DocumentMoniker": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\Models\\Feature.cs",
               "RelativeDocumentMoniker": "MentorInClass\\Models\\Feature.cs",
@@ -292,12 +365,11 @@
               "RelativeToolTip": "MentorInClass\\Models\\Feature.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T16:58:41.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T16:58:41.843Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "CardFeature.cs",
               "DocumentMoniker": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\Models\\CardFeature.cs",
               "RelativeDocumentMoniker": "MentorInClass\\Models\\CardFeature.cs",
@@ -305,12 +377,11 @@
               "RelativeToolTip": "MentorInClass\\Models\\CardFeature.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T16:43:23.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T16:43:23.202Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Card.cs",
               "DocumentMoniker": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\Models\\Card.cs",
               "RelativeDocumentMoniker": "MentorInClass\\Models\\Card.cs",
@@ -318,12 +389,11 @@
               "RelativeToolTip": "MentorInClass\\Models\\Card.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T15:29:31.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T15:29:31.925Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "PaginatedList.cs",
               "DocumentMoniker": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\Areas\\Manage\\ViewModels\\PaginatedList.cs",
               "RelativeDocumentMoniker": "MentorInClass\\Areas\\Manage\\ViewModels\\PaginatedList.cs",
@@ -331,12 +401,11 @@
               "RelativeToolTip": "MentorInClass\\Areas\\Manage\\ViewModels\\PaginatedList.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T15:22:36.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T15:22:36.246Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\Areas\\Manage\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "MentorInClass\\Areas\\Manage\\Views\\_ViewImports.cshtml",
@@ -344,12 +413,11 @@
               "RelativeToolTip": "MentorInClass\\Areas\\Manage\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-03T15:25:44.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T15:25:44.977Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\Areas\\Manage\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "MentorInClass\\Areas\\Manage\\Views\\_ViewStart.cshtml",
@@ -357,12 +425,11 @@
               "RelativeToolTip": "MentorInClass\\Areas\\Manage\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-03T15:39:45.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T15:39:45.187Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "MentorInClass\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
@@ -370,12 +437,11 @@
               "RelativeToolTip": "MentorInClass\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
               "ViewState": "AQIAAEQBAAAAAAAAAIBJwGUBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-03T15:17:02.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T15:17:02.704Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\kamalrh\\Desktop\\Mentor-Template-Lab\\MentorInClass\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "MentorInClass\\ScaffoldingReadMe.txt",
@@ -383,8 +449,7 @@
               "RelativeToolTip": "MentorInClass\\ScaffoldingReadMe.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-05-03T15:17:02.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T15:17:02.704Z"
             }
           ]
         }

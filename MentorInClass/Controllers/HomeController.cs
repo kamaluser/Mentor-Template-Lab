@@ -23,6 +23,5 @@ namespace MentorInClass.Controllers
 			};
 			return View(vm);
 		}
-
 	}
 }
